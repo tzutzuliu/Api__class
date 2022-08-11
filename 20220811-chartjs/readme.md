@@ -29,9 +29,6 @@
 
 
 
-
-
-
 # 歡迎大家都可以來點選網頁 Access-Control-Allow-Origin
 * Syntax
 >>Access-Control-Allow-Origin: *
@@ -44,4 +41,5 @@
 * 以下是我自己的練習網址
 * let dataUrl = 'https://data.ntpc.gov.tw/api/datasets/1016BB4C-E8EB-4113-A2BE-657FB51A1558/json?page=0&size=100';
 
-
+# 有抓到資料的myapi.html會有以下圖片
+![有抓到資料console會顯示](/pic/1660204753879.jpg)
