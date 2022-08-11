@@ -1,0 +1,1 @@
+let dataUrl = 'https://data.ntpc.gov.tw/api/datasets/1016BB4C-E8EB-4113-A2BE-657FB51A1558/json?page=0&size=100';
